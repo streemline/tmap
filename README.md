@@ -1,9 +1,6 @@
-# Telegram Nearby Map
+# Telegram  Map
 
 Telegram Nearby Map uses OpenStreetMap and the official Telegram library to find the position of nearby users.
-
-Inspired by [Ahmed's blog post](https://blog.ahmed.nyc/2021/01/if-you-use-this-feature-on-telegram.html) and a [Hacker News discussion](https://news.ycombinator.com/item?id=25641399).
-Developed by [github.com/tejado](https://github.com/tejado).
 
 <img src=".github/telegram-nearby-map-small.png" alt="Telegram Nearby Map Screenshot">  
 
